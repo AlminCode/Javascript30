@@ -14,3 +14,8 @@ document.addEventListener('keydown', function (event) {
     audio.play();
   }
 });
+
+function playSound(sound){
+    var audio = new Audio('sounds/' + sound + '.wav');
+    audio.play();  
+}
