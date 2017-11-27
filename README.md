@@ -2,8 +2,8 @@
 
 # JavaScript30
 
-# My take on the Javascript30 challange by Wes Bos. 
-#Grab the course at https://JavaScript30.com
+### My take on the Javascript30 challange by Wes Bos. 
+### Grab the course at https://JavaScript30.com
 
 
 
