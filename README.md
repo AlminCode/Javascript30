@@ -2,6 +2,9 @@
 
 # JavaScript30
 
+# My take on the Javascript30 challange by Wes Bos. 
+#Grab the course at https://JavaScript30.com
+
 
 
 ## Click on chalenges to see them in action:
