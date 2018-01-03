@@ -10,6 +10,7 @@
 ## Click on chalenges to see them in action:
 ### Day 1. [JavaScript Drum Kit](https://almincode.github.io/Javascript30/01%20-%20JavaScript%20Drum%20Kit)
 ### Day 2. [CSS and JS Clock](https://almincode.github.io/Javascript30/02%20-%20CSS%20and%20JS%20Clock)
+### Day 3. [CSS Variables](https://almincode.github.io/Javascript30/03%20-%20CSS%20Variables)
 
 &nbsp;
 &nbsp;
